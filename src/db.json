@@ -1,0 +1,9 @@
+{
+"posts": [  
+  { "id": 1, "title": "json-server", "author": "typicode" }  
+],  
+"history": [  
+  { "id": 1, "title": "some comment", "url": "https://google.com" }  
+],  
+"profile": { "name": "typicode" }  
+}
